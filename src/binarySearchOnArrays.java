@@ -4,6 +4,7 @@ public class binarySearchOnArrays {
 	/**
 	 * @param args
 	 */
+	
 	/*
 	 * READ ME:
 	 * You are given a sorted array of integers (in increasing order) and
