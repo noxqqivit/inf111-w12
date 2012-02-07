@@ -16,6 +16,8 @@ public class mergingTwoArrays {
 		a[3] = 8;
 		
 		int[] b = {1, 3, 5};
+		
+		merge(a, b, 4, 3); //the result should be [1, 2, 3, 4, 5, 6, 8];
 	}
 	
 	public static void merge(int[] a, int[] b, int lastA, int lastB){
