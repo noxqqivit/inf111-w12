@@ -3,11 +3,12 @@ public class mergingTwoArrays {
 
 	/**
 	 * 
-	 * READ ME
+	 * ==READ ME==
 	 * yoo are given two sorted arrays, A and B, where A has a large
 	 * enough buffer at the end to hold B. Complete the function
 	 * 'merge' to merge B into A in sorted order.
 	 */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] a = new int[7];

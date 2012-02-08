@@ -6,11 +6,13 @@ public class binarySearchOnArrays {
 	 */
 	
 	/*
-	 * READ ME:
+	 * ==READ ME==
 	 * You are given a sorted array of integers (in increasing order) and
 	 * a target. Your task is to find the index of the target in the given
 	 * array in O(lgn). A function prototype has been provided, just fill
 	 * out the body.
+	 * 
+	 * 
 	 */
 	
 	public static void main(String[] args) {
