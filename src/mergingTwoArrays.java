@@ -2,7 +2,6 @@
 public class mergingTwoArrays {
 
 	/**
-	 * 
 	 * ==READ ME==
 	 * yoo are given two sorted arrays, A and B, where A has a large
 	 * enough buffer at the end to hold B. Complete the function
