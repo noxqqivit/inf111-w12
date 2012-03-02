@@ -12,7 +12,7 @@ public class binarySearchOnArrays {
 	 * array in O(lgn). A function prototype has been provided, just fill
 	 * out the body.
 	 * 
-	 * 
+	 * howdy from noxqqivit
 	 */
 	
 	public static void main(String[] args) {
